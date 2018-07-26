@@ -16,6 +16,7 @@ namespace EmployeeDatabase
         {
             List<Employee> employees = new List<Employee>();
             int f = 1;
+            ///employee database
             while (f == 1) {
                 Console.WriteLine("Do you want to add employee enter '1' else '0'");
 

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\HP\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\HP\source\repos\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\HP\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\HP\source\repos\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
